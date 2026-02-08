@@ -5,3 +5,8 @@ edition = "2024"
 
 [dependencies]
 objc2 = "0.6.3"
+objc2-accessibility = "0.3.2"
+objc2-application-services = "0.3.2"
+objc2-core-foundation = "0.3.2"
+objc2-core-graphics = "0.3.2"
+objc2-app-kit = "0.3.2"
